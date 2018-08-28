@@ -1,3 +1,5 @@
 # DNS-System
-中文域名解析服务系统，支持缓存，多请求
-包含1台客户端，1台根服务器，1台本地服务器，4台中间多级服务器。
+- A Chinese Domain Name Server System, supporting cache and multi-query 
+- can be detected by wireshark.
+- include a client, a root server, a local server and 4 intermediate multilevel servers
+
